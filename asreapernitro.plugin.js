@@ -1,8 +1,8 @@
 /**
  * @name AsreaperFreeNitro
  * @website https://discord.org.in
- * @source https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
- * @updateUrl https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
+ * @source https://raw.githubusercontent.com/Asreaper31/freediscordnitro/main/asreapernitro.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Asreaper31/freediscordnitro/main/asreapernitro.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
