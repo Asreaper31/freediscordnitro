@@ -38,8 +38,8 @@ module.exports = (() => {
             }],
             "version": "1.0.0",
             "description": "Asreaper Discord Nitro Özellikleri | Free Discord Nitro Perks | 100MB Yükleme Sınırı Kalkmamıştır!",
-            "github": "https://github.com/respecting/NitroPerks",
-            "github_raw": "https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js"
+            "github": "https://raw.githubusercontent.com/Asreaper31",
+            "github_raw": "https://raw.githubusercontent.com/Asreaper31/freediscordnitro/main/asreapernitro.plugin.js"
         },
         "main": "asreapernitro.plugin.js"
     };
